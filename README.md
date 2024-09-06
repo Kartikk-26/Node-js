@@ -2,7 +2,9 @@
 
 Welcome to **NodeJS-Hustle**! 🚀💻
 
-This repository is dedicated to my daily journey of mastering Node.js by building small projects, experimenting with APIs, and solving backend-related problems. Each day, I will work on a new challenge or concept and upload my solution here to stay consistent and enhance my backend development skills.
+This repository is dedicated to my daily journey of mastering Node.js by building small projects, experimenting with APIs, and solving backend-related problems. 
+
+Each day, I will work on a new challenge or concept and upload my solution here to stay consistent and enhance my backend development skills.
 
 ## 📑 Table of Contents
 
@@ -15,7 +17,7 @@ This repository is dedicated to my daily journey of mastering Node.js by buildin
 
 ## 📅 Daily Challenge
 
-Every day, I will:
+Every day, I will :
 
 1. Build a small project or solve a backend problem using Node.js.
 2. Push the code and documentation to this repository.
@@ -23,18 +25,18 @@ Every day, I will:
 
 ## 🧠 Why NodeJS-Hustle?
 
-This repository exists to:
+This repository exists to : 
 
-- **Enhance Backend Skills**: Consistently practice and improve my Node.js expertise.
-- **Track Progress**: Keep a record of all my projects and solutions in one place.
-- **Experiment with APIs**: Work on different RESTful API designs, microservices, and database integrations.
-- **Stay Accountable**: Commit to daily coding to build a solid understanding of Node.js concepts.
+- **Enhance Backend Skills** : Consistently practice and improve my Node.js expertise.
+- **Track Progress** : Keep a record of all my projects and solutions in one place.
+- **Experiment with APIs**  Work on different RESTful API designs, microservices, and database integrations.
+- **Stay Accountable** : Commit to daily coding to build a solid understanding of Node.js concepts.
 
 ## 📝 Repository Structure
 
-- **/projects**: Contains daily Node.js projects and solutions, organized by project name or topic.
-- **/notes**: An optional folder for notes, tips, or additional explanations related to Node.js concepts.
-- **/utils**: Utility functions and helper scripts that can be reused across projects.
+- **/projects** : Contains daily Node.js projects and solutions, organized by project name or topic.
+- **/notes** : An optional folder for notes, tips, or additional explanations related to Node.js concepts.
+- **/utils** : Utility functions and helper scripts that can be reused across projects.
 
 Each project will include detailed comments explaining the logic, approach, and any key takeaways from the implementation.
 

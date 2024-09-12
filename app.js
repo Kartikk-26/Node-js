@@ -57,3 +57,8 @@ app.delete('/api/v1/deleteproduct/:id',(req,res)=>{
         filterProduct
     })
 })
+
+
+
+//Show DBS ( give the list of available databases in the mongodb server)
+
